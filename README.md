@@ -132,6 +132,6 @@ If you’d like to make improvements or add features, feel free to fork this rep
 
 ### ✨ Author
 
-Created by **[Your Name]**
+Created by **[Kazi Arman]**
 📧 [[Email](mailto:kaziarman@proton.me)]
 🌐 [[Github](https://github.com/kaziarman23)]
